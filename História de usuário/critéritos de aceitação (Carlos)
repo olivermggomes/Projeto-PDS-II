@@ -1,0 +1,15 @@
+Nome: Carlos
+. História de Usuário: Como administrador de conteúdo, Carlos deseja adicionar novos filmes e séries ao catálogo da plataforma de streaming. Ele também precisa atualizar informações, como descrições, elenco, diretor, e até mesmo fazer correções em casos de erros. Além disso, ele precisa ser capaz de remover conteúdo que não esteja mais disponível ou seja inadequado para a audiência da plataforma. Carlos precisa de ferramentas eficientes para gerenciar o catálogo e garantir que os dados estejam sempre atualizados.
+. Requisitos Funcionais:
+o Carlos deve poder adicionar novos filmes e séries ao catálogo,
+incluindo título, descrição, elenco e diretor.
+o Ele deve ser capaz de editar informações existentes, como
+descrições e elenco.
+
+o Carlos precisa ter a capacidade de remover filmes e séries do catálogo.
+o A aplicação deve fornecer um painel de administração eficaz para gerenciar o conteúdo.
+. Requisitos Não Funcionais:
+o A interface de administração deve ser de fácil uso e permitir que
+Carlos faça atualizações rapidamente.
+o A plataforma deve ter um sistema de controle de versão para
+garantir a rastreabilidade das mudanças no catálogo.
